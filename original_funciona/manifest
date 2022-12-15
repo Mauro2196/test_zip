@@ -1,0 +1,8 @@
+title=AutomationConnection
+subtitle=Automation driver to run E2E tests cases
+major_version=1
+minor_version=1
+build_version=00001
+sg_component_libs_provided=AutomationConnection
+hidden=1
+rsg_version=1.2
